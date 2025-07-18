@@ -1,8 +1,9 @@
 #include "../loader/meshloader.hpp"
 #include "../data_strutcures/mesh.hpp"
+#include "../assets/camera.hpp"
 
 int main(){
-    
+    Camera a;
     Mesh mesh;
     Meshloader ms;
 
