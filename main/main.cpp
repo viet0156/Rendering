@@ -3,7 +3,6 @@
 #include "../assets/camera.hpp"
 
 int main(){
-    Camera a;
     Mesh mesh;
     Meshloader ms;
 

@@ -18,6 +18,10 @@ class scene {
                 }
             }
         }
+
+        bool isObjectHit(){
+            
+        }
     private:
         std::vector<Ray> rayList;
 };
